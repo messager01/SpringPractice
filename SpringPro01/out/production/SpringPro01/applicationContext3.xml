@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <!--  构造方法属性注入   在实体类中创建一个带参的构造器 -->
+  <bean id="student" class="com.itlike.demo3.Student">
+      <constructor-arg name="name" value="a"/>
+      <constructor-arg name="age" value="10"/>
+      <property name="dog" ref="dog"/>
+      <!-- 集合类型属性注入   注入数组-->
+      <property name="attr">
+          <list>
+              <value>zs</value>
+              <value>ls</value>
+              <value>ww</value>
+          </list>
+      </property>
+
+      <!-- 注入list集合 -->
+      <property name="mylist">
+          <list>
+              <value>aaa</value>
+              <value>bbb</value>
+          </list>
+      </property>
+
+      <!--  注入set 集合-->
+      <property name="myset">
+          <set>
+              <value>set1</value>
+              <value>set2</value>
+          </set>
+      </property>
+
+      <!--    注入 map  -->
+      <property name="mymap">
+          <map>
+              <entry key="key1" value="value1"/>
+              <entry key="key2" value="value2"/>
+          </map>
+      </property>
+  </bean>
+
+
+    <!--  p名称空间属性注入 -->
+    <bean id="dog" class="com.itlike.demo3.Dog" p:name="狗子" p:age="10" p:color="black" >
+    </bean>
+
+    <!-- 集合类型属性注入 -->
+
+</beans>
