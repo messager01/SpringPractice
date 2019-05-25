@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="person" class="com.itlike.demo2.Person"
+          init-method="init"
+          destroy-method="destroy"
+          scope="prototype"
+    >     <!--  scope:  单例或是多例    默认是单例模式  -->
+        <property name="name" value="史沛鑫"/>
+    </bean>
+
+
+
+</beans>
