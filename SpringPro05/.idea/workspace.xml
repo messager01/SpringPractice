@@ -2,86 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="097d7ba1-3f5d-4ebe-9a07-fe52f35208cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/.idea/artifacts/SpringJDBCTemplate_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/.idea/artifacts/SpringPro04_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/.idea/libraries/com_springsource_com_mchange_v2_c3p0_0_9_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/src/AOP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/src/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/src/com/itlike/JDKProxy/GoodsDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/src/com/itlike/JDKProxy/GoodsDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/src/com/itlike/JDKProxy/GoodsJDKProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/src/com/itlike/JDKProxy/GoodsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/src/com/itlike/SpringAOP/AOPTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/src/com/itlike/SpringAOP/MyAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/src/com/itlike/cglibProxy/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/src/com/itlike/cglibProxy/UserDaoCglibProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/src/com/itlike/cglibProxy/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/com.springsource.org.apache.commons.pool-1.5.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/com.springsource.org.apache.log4j-1.2.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/druid-1.0.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/spring-aop-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/spring-aspects-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/spring-beans-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/spring-context-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/spring-core-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/spring-expression-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/spring-jdbc-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/spring-test-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/lib/spring-tx-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPro04/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringPro05_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_springsource_com_mchange_v2_c3p0_0_9_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itlike/Annotation/GoodsDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itlike/Annotation/GoodsDaoAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itlike/Annotation/GoodsDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itlike/Annotation/GoodsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.apache.commons.pool-1.5.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.apache.log4j-1.2.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/druid-1.0.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aop-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aspects-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-context-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-core-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-expression-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-test-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringPro03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringPro03/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/src/com/itlike/demo1/SpringJdbcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/src/com/itlike/demo1/SpringJdbcTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/src/com/itlike/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/src/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJDBCTemplate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -131,7 +59,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/itlike/Annotation/GoodsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
+            <state relative-caret-position="560">
               <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -259,19 +187,6 @@
               <item name="SpringPro05" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SpringPro05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringPro05" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringPro05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringPro05" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -281,7 +196,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558943998944" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558959748598" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
@@ -363,7 +278,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558927635995</updated>
-      <workItem from="1558927639659" duration="1371000" />
+      <workItem from="1558927639659" duration="2548000" />
     </task>
     <servers />
   </component>
@@ -394,10 +309,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1371000" />
+    <option name="totallyTimeSpent" value="2548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="JRebel" side_tool="true" />
       <window_info id="Image Layers" />
@@ -479,7 +395,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/itlike/Annotation/GoodsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
+        <state relative-caret-position="560">
           <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
