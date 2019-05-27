@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48110993-5f6b-48da-aec5-b40ca01adb36" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/.idea/artifacts/SpringJDBCTemplate_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplate/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringPro04_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_springsource_com_mchange_v2_c3p0_0_9_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AOP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itlike/JDKProxy/GoodsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itlike/JDKProxy/GoodsDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itlike/JDKProxy/GoodsJDKProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itlike/JDKProxy/GoodsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itlike/SpringAOP/AOPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itlike/SpringAOP/MyAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itlike/cglibProxy/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itlike/cglibProxy/UserDaoCglibProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itlike/cglibProxy/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.apache.commons.pool-1.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.apache.log4j-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/druid-1.0.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aop-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aspects-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-context-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-core-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-expression-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-test-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/.idea/artifacts/SpringPro05_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/.idea/libraries/com_springsource_com_mchange_v2_c3p0_0_9_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/src/com/itlike/Annotation/GoodsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/src/com/itlike/Annotation/GoodsDaoAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/src/com/itlike/Annotation/GoodsDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/src/com/itlike/Annotation/GoodsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/com.springsource.org.apache.commons.pool-1.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/com.springsource.org.apache.log4j-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/druid-1.0.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/spring-aop-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/spring-aspects-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/spring-beans-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/spring-context-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/spring-core-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/spring-expression-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/spring-jdbc-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/spring-test-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/lib/spring-tx-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPro05/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringPro03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringPro03/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1001189632">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="AOP" value="2" />
+          <entry key="form" value="1" />
+          <entry key="java" value="15" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="GUI_DESIGNER_FORM" value="1" />
+          <entry key="JAVA" value="15" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="AOP" value="299" />
+          <entry key="java" value="1795" />
+          <entry key="xml" value="346" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1795" />
+          <entry key="PLAIN_TEXT" value="299" />
+          <entry key="XML" value="346" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itlike/cglibProxy/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="20" />
+              <folding>
+                <element signature="e#77#78#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="511">
+              <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itlike/SpringAOP/MyAspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+              <folding>
+                <element signature="e#78#79#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itlike/JDKProxy/GoodsDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itlike/JDKProxy/GoodsDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+              <folding>
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/itlike/SpringAOP/AOPTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/itlike/demo1/GoodsDao.java" />
+        <option value="$PROJECT_DIR$/src/com/itlike/demo1/GoodsDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/itlike/demo1/GoodsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/itlike/demo1/GoodsJDKProxy.java" />
+        <option value="$PROJECT_DIR$/src/com/itlike/cglibProxy/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/com/itlike/cglibProxy/UserDaoCglibProxy.java" />
+        <option value="$PROJECT_DIR$/src/com/itlike/cglibProxy/UserTest.java" />
+        <option value="$PROJECT_DIR$/src/AOP" />
+        <option value="$PROJECT_DIR$/src/com/itlike/JDKProxy/GoodsDao.java" />
+        <option value="$PROJECT_DIR$/src/com/itlike/SpringAOP/AOPTest.java" />
+        <option value="$PROJECT_DIR$/src/com/itlike/JDKProxy/GoodsDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/itlike/SpringAOP/MyAspect.java" />
+        <option value="$PROJECT_DIR$/src/applicationContext.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/maven/apache-maven-3.5.4" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringPro04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringPro04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringPro04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringPro04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringPro04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringPro04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringPro04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringPro04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itlike" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringPro04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringPro04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itlike" type="462c0819:PsiDirectoryNode" />
+              <item name="cglibProxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringPro04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringPro04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itlike" type="462c0819:PsiDirectoryNode" />
+              <item name="JDKProxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringPro04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringPro04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itlike" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringAOP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringPro04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringPro04" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringPro04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringPro04" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558943998812" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\撩课\SpringPractice\SpringPro04\src" />
+      <recent name="F:\撩课\SpringPractice\SpringPro04\web\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AOPTest.test2">
+    <configuration name="AOPTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringPro04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itlike.SpringAOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itlike.SpringAOP" />
+      <option name="MAIN_CLASS_NAME" value="com.itlike.SpringAOP.AOPTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AOPTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringPro04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itlike.SpringAOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itlike.SpringAOP" />
+      <option name="MAIN_CLASS_NAME" value="com.itlike.SpringAOP.AOPTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringPro04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itlike.JDKProxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itlike.JDKProxy" />
+      <option name="MAIN_CLASS_NAME" value="com.itlike.JDKProxy.GoodsTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringPro04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itlike.cglibProxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itlike.cglibProxy" />
+      <option name="MAIN_CLASS_NAME" value="com.itlike.cglibProxy.UserTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.35" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.35" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="SpringPro04:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SpringPro04:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 8.5.35" />
+      <item itemvalue="JUnit.GoodsTest.test" />
+      <item itemvalue="JUnit.UserTest.test1" />
+      <item itemvalue="JUnit.AOPTest.test" />
+      <item itemvalue="JUnit.AOPTest.test2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AOPTest.test2" />
+        <item itemvalue="JUnit.AOPTest.test" />
+        <item itemvalue="JUnit.UserTest.test1" />
+        <item itemvalue="JUnit.GoodsTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48110993-5f6b-48da-aec5-b40ca01adb36" name="Default Changelist" comment="" />
+      <created>1558921039012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558921039012</updated>
+      <workItem from="1558921042330" duration="6884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AOPTest_test - 2019.05.27 at 10h 48m 44s.xml">
+      <configuration name="AOPTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AOPTest_test - 2019.05.27 at 10h 49m 56s.xml">
+      <configuration name="AOPTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AOPTest_test - 2019.05.27 at 10h 50m 30s.xml">
+      <configuration name="AOPTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AOPTest_test - 2019.05.27 at 10h 54m 15s.xml">
+      <configuration name="AOPTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AOPTest_test - 2019.05.27 at 10h 57m 05s.xml">
+      <configuration name="AOPTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AOPTest_test2 - 2019.05.27 at 11h 01m 48s.xml">
+      <configuration name="AOPTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AOPTest_test2 - 2019.05.27 at 11h 04m 31s.xml">
+      <configuration name="AOPTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AOPTest_test2 - 2019.05.27 at 11h 04m 56s.xml">
+      <configuration name="AOPTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AOPTest_test2 - 2019.05.27 at 11h 06m 03s.xml">
+      <configuration name="AOPTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AOPTest_test2 - 2019.05.27 at 11h 07m 58s.xml">
+      <configuration name="AOPTest.test2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6884000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1550" height="830" extended-state="1" />
+    <layout>
+      <window_info id="JRebel" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19705094" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Application Servers" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" />
+      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.54234767" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/itlike/JDKProxy/GoodsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itlike/JDKProxy/GoodsJDKProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AOP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AOP.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AOP">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itlike/cglibProxy/UserDaoCglibProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itlike/cglibProxy/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itlike/cglibProxy/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itlike/JDKProxy/GoodsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itlike/JDKProxy/GoodsDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itlike/SpringAOP/MyAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding>
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itlike/SpringAOP/AOPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
