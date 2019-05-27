@@ -2,12 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6170b84-cd50-40c3-8e42-3e4c4dba3b26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itlike/demo1/SpringJdbcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itlike/demo1/SpringJdbcTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itlike/domain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/.idea/artifacts/SpringTransaction_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/.idea/libraries/com_springsource_com_mchange_v2_c3p0_0_9_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/src/demo1/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/src/demo1/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/src/demo1/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/src/demo1/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/src/demo1/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/src/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/src/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/com.springsource.org.apache.commons.pool-1.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/com.springsource.org.apache.log4j-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/druid-1.0.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/spring-aop-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/spring-aspects-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/spring-beans-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/spring-context-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/spring-core-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/spring-expression-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/spring-jdbc-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/spring-test-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/lib/spring-tx-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTransaction/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpringPro05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringPro05/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -22,6 +52,7 @@
     <session id="705759380">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -44,12 +75,14 @@
         <counts>
           <entry key="java" value="986" />
           <entry key="properties" value="34" />
+          <entry key="txt" value="23" />
           <entry key="xml" value="468" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="985" />
+          <entry key="PLAIN_TEXT" value="23" />
           <entry key="Properties" value="34" />
           <entry key="SQL" value="1" />
           <entry key="XML" value="468" />
@@ -62,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/itlike/demo1/SpringJdbcTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
+            <state relative-caret-position="208">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#548#549#0" expanded="true" />
@@ -104,7 +137,7 @@
         <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -162,7 +195,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-9" />
     <option name="width" value="1938" />
     <option name="height" value="1038" />
@@ -210,6 +243,25 @@
               <item name="itlike" type="462c0819:PsiDirectoryNode" />
               <item name="demo1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SpringJDBCTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringJDBCTemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itlike" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringJDBCTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringJDBCTemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringJDBCTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringJDBCTemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -219,7 +271,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558959754157" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558962640626" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
@@ -372,8 +424,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558943983933</updated>
-      <workItem from="1558943986509" duration="3744000" />
+      <workItem from="1558943986509" duration="5152000" />
     </task>
+    <task id="LOCAL-00001" summary="SpringJdbcTemplate">
+      <created>1558959774690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558959774690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -409,10 +469,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3744000" />
+    <option name="totallyTimeSpent" value="5152000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="JRebel" side_tool="true" />
@@ -422,7 +482,7 @@
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20040214" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20040214" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" />
       <window_info anchor="bottom" id="Spring" />
@@ -436,7 +496,7 @@
       <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37738618" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37738618" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -458,6 +518,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SpringJdbcTemplate" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringJdbcTemplate" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/itlike/demo1/SpringJdbcTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -472,7 +536,7 @@
     <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -509,8 +573,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/itlike/demo1/SpringJdbcTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
+        <state relative-caret-position="208">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#548#549#0" expanded="true" />
